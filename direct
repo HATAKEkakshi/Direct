@@ -103,6 +103,8 @@ Other password list
  Software
  direct/SecLists/Passwords/Software/cain-and-abel.txt
  direct/SecLists/Passwords/Software/john-the-ripper.txt
+ Cracked-Hashes
+ direct/SecLists/Passwords/Cracked-Hashes/milw0rm-dictionary.txt
  Permutations
  direct/SecLists/Passwords/Permutations/1337speak.txt
  direct/SecLists/Passwords/Permutations/korelogic-password.txt
