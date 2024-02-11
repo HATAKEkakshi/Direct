@@ -1,0 +1,22 @@
+list 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10k-most-common.txt master.txt
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10-million-password-list-top-100.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10-million-password-list-top-500.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10-million-password-list-top-1000.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10-million-password-list-top-10000.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10-million-password-list-top-100000.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/500-worst-passwords.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/1900-2020.txt
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/best15.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/best10.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/best1050.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/common-passwords-win.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/four-digit-pin-codes-sorted-by-frequency-withcount.csv 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/medical-devices.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/SplashData-2014.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/SplashData-2015-1.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/SplashData-2015-2.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/top-20-common-SSH-passwords.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/top-passwords-shortlist.txt 
+ /home/hatakekakashi/SecLists/Passwords/Common-Credentials/worst-passwords-2017-top100-slashdata.txt 
