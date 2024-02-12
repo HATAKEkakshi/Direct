@@ -109,3 +109,20 @@ Other password list
  direct/SecLists/Passwords/Permutations/1337speak.txt
  direct/SecLists/Passwords/Permutations/korelogic-password.txt
  direct/SecLists/Passwords/Permutations/password-permutations.txt
+ username
+ other miscellous 
+userlist=$direct/SecLists/Usernames/cirt-default-usernames.txt  
+userlist=$direct/SecLists/Usernames/CommonAdminBase64.txt  
+userlist=$direct/SecLists/Usernames/mssql-usernames-nansh0u-guardicore.txt
+userlist=$direct/SecLists/Usernames/sap-default-usernames.txt
+userlist=$direct/SecLists/Usernames/top-usernames-shortlist.txt
+userlist=$direct/SecLists/Usernames/xato-net-10-million-usernames-dup.txt
+userlist=$direct/SecLists/Usernames/xato-net-10-million-usernames.txt
+honeypot -captures
+userlist=$direct/SecLists/Usernames/multiplesources-users-fabian-fingerle.de.txt
+Names
+userlist=$direct/SecLists/Usernames/familynames-usa-top1000.txt 
+userlist=$direct/SecLists/Usernames/forenames-india-top1000.txt
+userlist=$direct/SecLists/Usernames/names.txt
+userlist=$direct/SecLists/Usernames/femalenames-usa-top1000.txt
+userlist=$direct/SecLists/Usernames/malenames-usa-top1000.txt
